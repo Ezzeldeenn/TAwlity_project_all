@@ -1,0 +1,32 @@
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\appsettings.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\capiston team work project.exe
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\capiston team work project.deps.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\capiston team work project.runtimeconfig.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\capiston team work project.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\capiston team work project.pdb
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.csproj.AssemblyReference.cache
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.AssemblyInfoInputs.cache
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.AssemblyInfo.cs
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.csproj.CoreCompileInputs.cache
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets\msbuild.capiston team work project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets\msbuild.build.capiston team work project.props
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.capiston team work project.props
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.capiston team work project.props
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\scopedcss\bundle\capiston team work project.styles.css
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston.B18D2C02.Up2Date
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\refint\capiston team work project.dll
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.pdb
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\capiston team work project.genruntimeconfig.cache
+C:\Users\ezz.mohamed\Desktop\Capiston gread12\capiston team work project\capiston team work project\obj\Debug\net8.0\ref\capiston team work project.dll
