@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("capiston team work project")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c829d603b8e5881bea8414fb4a85b642a109bbe")]
 [assembly: System.Reflection.AssemblyProductAttribute("capiston team work project")]
 [assembly: System.Reflection.AssemblyTitleAttribute("capiston team work project")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
