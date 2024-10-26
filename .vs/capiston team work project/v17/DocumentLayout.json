@@ -1,7 +1,80 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\capiston team work project\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\recipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\communitypost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\communitypost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\promotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|c:\\users\\ezz.mohamed\\desktop\\capiston gread12\\project_capistone\\capiston team work project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{177048F1-DB89-48DC-A5C5-9A23930C44C9}|capiston team work project\\capiston team work project.csproj|solutionrelative:capiston team work project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +95,226 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Order.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:26:54.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\PaymentMethod.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\PaymentMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:27:08.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipe.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Recipe.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Recipe.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Recipe.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Recipe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:29:16.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Reservation.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:26:21.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Review.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:27:17.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\AppDbContext.cs",
+              "RelativeToolTip": "capiston team work project\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:31:11.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CommunityPost.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\CommunityPost.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\CommunityPost.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\CommunityPost.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\CommunityPost.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:28:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Address.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Address.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Address.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:30:01.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Comment.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:29:04.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Notification.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:30:09.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\appsettings.json",
+              "RelativeDocumentMoniker": "capiston team work project\\appsettings.json",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\appsettings.json",
+              "RelativeToolTip": "capiston team work project\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T11:37:17.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Program.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Program.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Program.cs",
+              "RelativeToolTip": "capiston team work project\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T11:40:59.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Promotion.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Promotion.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Promotion.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Promotion.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Promotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:27:46.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Role.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:25:36.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\MenuItem.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\MenuItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:26:10.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\Restaurant.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\Restaurant.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:26:00.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\UserRole.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:25:48.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "capiston team work project\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\Models\\User.cs",
+              "RelativeToolTip": "capiston team work project\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:13:45.441Z"
             }
           ]
         }

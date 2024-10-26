@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\capiston team work project\\capiston team work project\\capiston team work project.csproj": {}
+    "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\capiston team work project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\capiston team work project\\capiston team work project\\capiston team work project.csproj": {
+    "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\capiston team work project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\capiston team work project\\capiston team work project\\capiston team work project.csproj",
+        "projectUniqueName": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\capiston team work project.csproj",
         "projectName": "capiston team work project",
-        "projectPath": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\capiston team work project\\capiston team work project\\capiston team work project.csproj",
+        "projectPath": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\capiston team work project.csproj",
         "packagesPath": "C:\\Users\\ezz.mohamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\capiston team work project\\capiston team work project\\obj\\",
+        "outputPath": "C:\\Users\\ezz.mohamed\\Desktop\\Capiston gread12\\project_capistone\\capiston team work project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,30 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "DBContext": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0-rc.1.24451.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.1.24451.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0-rc.1.24451.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0-rc.1.24451.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
